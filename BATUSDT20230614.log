@@ -1,6 +1,0 @@
-2023-06-14 10:59:16,141 LOGFILE:
-Starting the script!
-2023-06-14 10:59:16,141 
-The data directory doesn't exist! Creating one now:
-2023-06-14 10:59:16,143 
-Fetching data from: https://data.binance.vision/data/spot/daily/trades/BATUSDT/BATUSDT-trades-2023-06-14.zip
